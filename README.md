@@ -21,3 +21,4 @@ bash ibmcloud.sh
   | `CFNAME` | IBM Cloud 应用程序名 |
   | `RGN` | IBM所属区域，伦敦：eu-gb |
  
+感谢https://github.com/ShadowsocksR-Live/shadowsocksr-native
