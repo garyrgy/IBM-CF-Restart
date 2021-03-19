@@ -1,6 +1,9 @@
 
 本项目仅适用于重启IBM的应用程序。仅此而已
 
+
+### 安装IBM ssrot步骤：
+
 进入IBM SHELL,切换到英国伦敦区：ibmcloud target -r eu-gb
 
 IBM SSROT一键脚本：
